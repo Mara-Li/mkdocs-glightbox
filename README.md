@@ -1,5 +1,8 @@
 # MkDocs GLightbox
 
+*Fork from official package, just introduce into Pypi the last fixes*
+*Will be deleted if the official repo update to latest version.*
+
 <p align="center">
 <a target="_blank" href="https://pypi.org/project/mkdocs-glightbox"><img src="https://img.shields.io/pypi/v/mkdocs-glightbox.svg" alt="PyPI version"/></a>
 <a target="_blank" href="https://pypi.org/project/mkdocs-glightbox"><img src="https://img.shields.io/pypi/dm/mkdocs-glightbox.svg" alt="PyPI downloads"/></a>
